@@ -5,7 +5,7 @@ My themes for the Terminal in OSX.
 - Translucent when inactive
 
 
-![HomeRed](https://raw.githubusercontent.com/mrgnw/osx-terminal/master/Homebrew.gif)
-![HomeBlue](https://raw.githubusercontent.com/mrgnw/osx-terminal/master/HomeBlue.gif)
-![HomeRed](https://raw.githubusercontent.com/mrgnw/osx-terminal/master/HomeRed.gif)
-![Ocean Blue](https://github.com/mrgnw/osx-terminal/blob/master/Ocean%20Blue.gif)
+![HomeRed](https://raw.githubusercontent.com/mrgnw/osx-terminal/master/animations/Homebrew.gif)
+![HomeBlue](https://raw.githubusercontent.com/mrgnw/osx-terminal/master/animations/HomeBlue.gif)
+![HomeRed](https://raw.githubusercontent.com/mrgnw/osx-terminal/master/animations/HomeRed.gif)
+![Ocean Blue](https://github.com/mrgnw/osx-terminal/blob/master/animations/Ocean%20Blue.gif)
