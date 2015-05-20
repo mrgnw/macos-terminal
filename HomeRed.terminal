@@ -73,6 +73,8 @@
 	<integer>70</integer>
 	<key>name</key>
 	<string>HomeRed</string>
+	<key>rowCount</key>
+	<integer>44</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>

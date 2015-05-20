@@ -65,6 +65,8 @@
 	<integer>70</integer>
 	<key>name</key>
 	<string>Pro</string>
+	<key>rowCount</key>
+	<integer>44</integer>
 	<key>shellExitAction</key>
 	<integer>2</integer>
 	<key>type</key>

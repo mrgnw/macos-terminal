@@ -74,6 +74,8 @@
 	<integer>70</integer>
 	<key>name</key>
 	<string>Homebrew</string>
+	<key>rowCount</key>
+	<integer>44</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>
