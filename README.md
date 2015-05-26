@@ -1,6 +1,6 @@
 ### OSX Terminal Themes
 - Standard font: Andale Mono 16 pt.
-- Window width: 70 columns (fits two windows side by side on 15" Retina MacBook Pro)
+- Window size: 70x40 (fits two windows side by side on 15" Retina MacBook Pro)
 - Translucent when inactive
 
 
