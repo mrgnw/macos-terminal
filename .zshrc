@@ -11,10 +11,6 @@ promptinit
 ZSH_THEME="avit-pure"
 # avit, pure, avit-pure
 
-# from http://sourabhbajaj.com/mac-setup/iTerm/zsh.html
-alias zshconfig="atom ~/.zshrc"
-alias envconfig="atom ~/Projects/config/env.sh"
-
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
