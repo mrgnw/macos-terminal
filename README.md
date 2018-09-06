@@ -9,7 +9,7 @@
 ![Ocean Blue](https://github.com/mrgnw/osx-terminal/blob/master/animations/Ocean%20Blue.gif)
 
 
-# Install all of them
+# Install all themes
 Or [download a zip](https://github.com/mrgnw/macos-terminal/zipball/master)
 
 ```bash
